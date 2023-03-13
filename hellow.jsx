@@ -1,4 +1,4 @@
 export function Hellow() {
-    console.log("hola he cambiado este texto verificando el git diff")
+    console.log("cambio a camilo")
   return <h1>Hola soy un componente</h1>;
 }
